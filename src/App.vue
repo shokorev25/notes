@@ -90,7 +90,7 @@ button:hover {
   margin-top: 30px;
 }
 
-/* Добавим декоративную обводку */
+
 .container::before {
   content: '';
   position: absolute;
